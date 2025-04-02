@@ -1,0 +1,16 @@
+{
+    "idf.portWin": "COM9",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "num.h": "c",
+        "cf_math.h": "c",
+        "zranger2.h": "c",
+        "position_estimator.h": "c",
+        "crtp_commander.h": "c",
+        "queuemonitor.h": "c",
+        "crtp.h": "c",
+        "motors.h": "c",
+        "power_distribution.h": "c",
+        "commander.h": "c"
+    }
+}
